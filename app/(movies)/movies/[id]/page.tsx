@@ -25,5 +25,5 @@ export default async function MovieDetailPage({
           <MovieVideos id={id} />
         </Suspense>
       </div>
-    )
-};
+    );
+}
